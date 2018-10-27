@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2048
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntityFrameworkPerformance", "EFPerformance\EntityFrameworkPerformance.csproj", "{FB3AB41E-A343-4A39-BE05-95ACBEA8A6DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB3AB41E-A343-4A39-BE05-95ACBEA8A6DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB3AB41E-A343-4A39-BE05-95ACBEA8A6DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB3AB41E-A343-4A39-BE05-95ACBEA8A6DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB3AB41E-A343-4A39-BE05-95ACBEA8A6DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4678B565-C8EB-4F4F-9E5A-B573CF02EFE8}
+	EndGlobalSection
+EndGlobal
